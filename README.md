@@ -1,8 +1,6 @@
 # 收集 MacOs 下载包
 
 ```
-.
-├── README.md
 ├── 数据库工具
 │   └── DB.Browser.for.SQLite-3.12.2.dmg
 └── 浏览器插件
